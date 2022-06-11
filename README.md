@@ -1,0 +1,1 @@
+# trash_containers_cls
