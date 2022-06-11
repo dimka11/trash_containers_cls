@@ -2,15 +2,15 @@ fix incorrect train labeling
 
 #### Models:
 
-Transformer based backbone for feature extraction (SWIN)
+* Transformer based backbone for feature extraction (SWIN)
 
-Two models (Bad quality class vs other) and Photo has trash vs Photo hasn't trash
+* Two models (Bad quality class vs other) and Photo has trash vs Photo hasn't trash
 
 #### Augmentations:
 
-Horizontal flip
+* Horizontal flip
 
-Resize / center crop
+* Resize / center crop
 
 Albumentations:
 
