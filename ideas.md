@@ -19,3 +19,8 @@ Decrease quality:
 * Noise
 * blur
 * other (weather, sun etc)
+
+#### Pre/Post
+
+* lbp-based segmentation of defocus blur
+https://www.youtube.com/watch?v=li7ZiUQ6ACM&t=780s
