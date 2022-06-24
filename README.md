@@ -25,4 +25,4 @@ https://www.kaggle.com/datasets/dimka11/trash-containers
 
 kaggle datasets download -d dimka11/trash-containers
 
-Мои идеи https://github.com/dimka11/trash_containers_cls/blob/main/ideas.md
+(Мои идеи)[https://github.com/dimka11/trash_containers_cls/blob/main/ideas.md]
