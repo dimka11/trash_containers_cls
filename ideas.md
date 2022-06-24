@@ -29,6 +29,11 @@ Decrease quality:
 * lbp-based segmentation of defocus blur
 https://www.youtube.com/watch?v=li7ZiUQ6ACM&t=780s
 
+GradCam / Integrated gradients
+
+https://github.com/ismailuddin/gradcam-tensorflow-2/blob/master/notebooks/GradCam.ipynb
+
+https://www.tensorflow.org/tutorials/interpretability/integrated_gradients
 
 
 
