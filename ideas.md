@@ -30,6 +30,8 @@ Decrease quality:
 https://www.youtube.com/watch?v=li7ZiUQ6ACM&t=780s
 
 
+
+
 #### Other's solutions:
 
 https://github.com/sweetlhare/neuro-wood
@@ -45,6 +47,10 @@ https://www.kaggle.com/code/dimka11/healthdatahack-base
 https://www.kaggle.com/code/dimka11/healthdatahack-tf
 
 https://www.kaggle.com/code/dimka11/healthdatahack-pt
+
+
+timm:
+https://github.com/martinsbruveris/tensorflow-image-models
 
 
 
