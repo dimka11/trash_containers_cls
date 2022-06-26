@@ -41,6 +41,8 @@ https://www.tensorflow.org/tutorials/interpretability/integrated_gradients
 
 https://github.com/sweetlhare/neuro-wood
 
+https://github.com/lnfin/neurowood
+
 https://github.com/dimka11/santa_image_prediction
 
 https://github.com/dimka11/WoodHack
